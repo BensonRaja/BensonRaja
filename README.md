@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BensonRaja
 - 👀 I’m interested in Coding,Hacking...
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning python language.
 - 💞️ I’m looking to collaborate on soon.
 - 📫 How to reach me--DM me directly
 
